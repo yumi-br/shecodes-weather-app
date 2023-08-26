@@ -72,3 +72,7 @@ li::first-letter {
 .weather-temperature .active:hover {
   text-decoration: none;
 }
+
+footer {
+  text-align: center;
+}
