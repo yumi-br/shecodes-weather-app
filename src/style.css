@@ -73,6 +73,12 @@ li::first-letter {
   text-decoration: none;
 }
 
+a {
+  text-decoration: none;
+  color: #878787;
+}
+
 footer {
   text-align: center;
+  text-decoration: none;
 }
