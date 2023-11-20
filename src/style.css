@@ -101,3 +101,9 @@ footer {
   text-align: center;
   text-decoration: none;
 }
+
+@media (max-width: 600px) {
+  .col-3 input {
+    font-size: 14px;
+  }
+}
