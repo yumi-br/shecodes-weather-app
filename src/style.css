@@ -104,6 +104,6 @@ footer {
 
 @media (max-width: 600px) {
   .col-3 input {
-    font-size: 14px;
+    font-size: 12px;
   }
 }
